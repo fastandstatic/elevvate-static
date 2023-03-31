@@ -1,0 +1,63 @@
+/**
+ * Theme Name: Cerato Child
+ * Description: This is a child theme of Cerato
+ * Author: ZooTemplate
+ * Author URI: http://zootemplate.com
+ * Template: cerato
+ * Version: 2.1.0
+ */
+
+*{
+	hyphens: none;
+}
+
+
+
+.mobileappsmenu{
+   text-align: center;
+}
+
+li.menu-item.menu-item-type-custom {
+    align-self: center;
+}
+
+body{
+	line-height: 1;
+}
+
+a#zoo-back-to-top {
+    display: none;
+}
+
+.elementor-nav-menu {
+	flex-wrap: inherit !important;
+}
+
+body, html {
+    overflow-x: hidden;
+}
+
+@media (max-width: 768px){
+
+.mobileappsmenu{
+    text-align: left !important;
+}
+
+}
+
+
+
+/** fullstack css **/
+
+@media (max-width:1440px) {
+.design_img .elementor-widget-image img {
+    vertical-align: middle !important;
+    display: block !important;
+    max-width: 80% !important;
+}
+	
+.testimonio h3 {
+	font-size: 30px !important;
+}
+}
+
