@@ -212,7 +212,7 @@
 		position: relative;
 		}
 		.cleverwa-box .cleverwa-no-image .cleverwa-face {
-			background: transparent url('./../images/logo-green-small.png') center center no-repeat;
+			background: transparent url('/wp-content/plugins/clever-whatsapp/assets/images/logo-green-small.png') center center no-repeat;
 			background-size: cover;
 			}
 		.cleverwa-box .cleverwa-face img {
@@ -237,7 +237,7 @@
 		position: relative;
 		}
 	.cleverwa-box .cleverwa-info:after {
-		content:url('./../images/logo-green-nobg.png');
+		content:url('/wp-content/plugins/clever-whatsapp/assets/images/logo-green-nobg.png');
 		width: 30px;
 		height: 30px;
 		display: block;
