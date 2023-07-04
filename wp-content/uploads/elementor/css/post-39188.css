@@ -202,23 +202,6 @@ input#nf-field-304 {
    font-family: "Montserrat", sans-serif; 
 }/* End custom CSS */
 /* Start Custom Fonts CSS */@font-face {
-	font-family: 'Space Grotesk';
-	font-style: normal;
-	font-weight: bold;
-	font-display: auto;
-	src: url('https://elevvate.co/wp-content/uploads/2020/07/SpaceGrotesk-Bold.woff2') format('woff2'),
-		url('https://elevvate.co/wp-content/uploads/2020/07/SpaceGrotesk-Bold.woff') format('woff');
-}
-@font-face {
-	font-family: 'Space Grotesk';
-	font-style: normal;
-	font-weight: normal;
-	font-display: auto;
-	src: url('https://elevvate.co/wp-content/uploads/2020/07/SpaceGrotesk-Regular.woff2') format('woff2'),
-		url('https://elevvate.co/wp-content/uploads/2020/07/SpaceGrotesk-Regular.woff') format('woff');
-}
-/* End Custom Fonts CSS */
-/* Start Custom Fonts CSS */@font-face {
 	font-family: 'Space mono';
 	font-style: normal;
 	font-weight: normal;
