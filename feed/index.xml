@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Full Stack LATAM</title>
+	<title>Elevvate.co</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Marketing y Desarrollo Digital</description>
-	<lastBuildDate>Thu, 02 Nov 2023 19:29:13 +0000</lastBuildDate>
+	<description>App &#38; Software Development</description>
+	<lastBuildDate>Thu, 02 Nov 2023 20:23:04 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://elevvate-files-website.s3.amazonaws.com/wp-content/uploads/2023/07/20115735/cropped-Elevvate.Favicon-1-32x32.png</url>
-	<title>Full Stack LATAM</title>
+	<title>Elevvate.co</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
