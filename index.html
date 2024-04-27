@@ -2359,19 +2359,6 @@ window.onload = addEvent();
 
                                     var default_val = jQuery(".startklar_country_selector").data("default_val");
 
-                                    if (!default_val){
-                                        jQuery.post( "https://elevvate.fastandstatic.com/wp-admin/admin-ajax.php?action=startklar_country_selector_process", function( data ) {
-                                            if(typeof data["country"] !== "undefined"){
-                                                jQuery('.startklar_country_selector  > option').each(function() {
-                                                    var country_en = jQuery(this).data("country_en");
-                                                    if ( typeof country_en !=="undefined" && country_en.includes(data["country"])){
-                                                        jQuery('.startklar_country_selector').val(this.value).trigger('change');
-                                                    }
-                                                });
-                                            }
-                                        },"json");
-                                    }
-
                                 }
 
                             });
