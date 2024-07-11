@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>App &#38; Software Development</description>
-	<lastBuildDate>Sat, 27 Apr 2024 14:38:07 +0000</lastBuildDate>
-	<language>es-ES</language>
+	<lastBuildDate>Sat, 27 Apr 2024 14:50:52 +0000</lastBuildDate>
+	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
 	<url>https://elevvate-files-website.s3.amazonaws.com/wp-content/uploads/2023/07/20115735/cropped-Elevvate.Favicon-1-32x32.png</url>
